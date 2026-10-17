@@ -21,7 +21,7 @@
 - 🔭 Currently exploring **AI Agents**
 - 🎬 Founder of **One Clip Media**: AI tools, business facts and finance tips (YouTube & Instagram)
 - 📍 Delhi NCR, India
-- 🗣️ Hindi • English • Gujarati
+- 🗣️ Hindi • English
 
 ---
 
