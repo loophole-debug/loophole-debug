@@ -1,132 +1,90 @@
-<div align="center">
+# Hi, I'm Priyanshu Kumar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Priyanshu+Kumar+%F0%9F%91%8B;Software+Engineer+%40+HCLTech;Building+AI+Agents+%26+GenAI+Workflows;Scalable+Backend+%7C+AI+Automation" alt="Typing header" />
+**Software Engineer @ HCLTech | AI Automation · GenAI Workflows · Backend Systems**
 
-**2+ years building AI automation, GenAI workflows and production backend systems**
+I build AI agents, GenAI workflows and scalable backend services. With 2+ years of professional experience, I focus on production-grade AI systems that are evidence-grounded, auditable and safe, with a human in the loop where it matters.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-k24)
-[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/priyanshu-kumar25)
-[![Profile Views](https://hits.sh/github.com/loophole-debug.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6)](https://github.com/loophole-debug)
-
-</div>
+> Idea → Design → Build → Test → Ship 🚢
 
 ---
 
-## 🧑‍💻 About Me
+### 📌 Snapshot
 
-```text
-{
-  "name":       "Priyanshu Kumar",
-  "role":       "Software Engineer @ HCLTech (TechBee Program)",
-  "experience": "2+ years",
-  "education":  "BCA, Amity University Online (2028)",
-  "location":   "Delhi NCR, India",
-  "focus":      ["AI Agents", "GenAI Workflows", "Backend Systems", "Responsible AI"],
-  "languages":  ["Hindi", "English", "Gujarati"],
-  "side_hustle":"One Clip Media (AI tools, business and finance content)"
-}
-```
+| | |
+|---|---|
+| 💼 **Role** | Software Engineer at HCLTech (TechBee Work Integrated Learning Program) |
+| ⏳ **Experience** | 2+ years |
+| 🎓 **Education** | BCA, Amity University Online (graduating 2028) |
+| 📍 **Location** | Delhi NCR, India |
+| 🔭 **Focus** | AI Agents, GenAI Workflows, Backend Systems, Responsible AI |
+| 🗣️ **Languages** | Hindi, English, Gujarati |
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Public Projects
 
-### Languages & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=py,ts,js,bash,fastapi,nodejs,express&theme=dark" />
-</p>
-
-### AI & GenAI
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-00D9FF?style=for-the-badge" />
-</p>
-
-### Data, Frontend & Databases
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,numpy,react,nextjs,tailwind,postgres,mongodb,redis,sqlite&theme=dark" />
-</p>
-
-### Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,githubactions,linux,git,github,postman,vscode&theme=dark" />
-</p>
+| Project | What it does | Built with |
+|---|---|---|
+| [SAR-STR-Investigation-Copilot](https://github.com/loophole-debug/SAR-STR-Investigation-Copilot) | Evidence-grounded AML SAR/STR investigation copilot with live LLM reasoning, synthetic case data, citation checks, audit trace and mandatory human review guardrails | Python · FastAPI · OpenAI API |
+| [amd-devassist](https://github.com/loophole-debug/amd-devassist) | AI developer assistant to speed up engineering workflows | TypeScript |
+| [summarizer-agent](https://github.com/loophole-debug/summarizer-agent) | AI agent that turns long content into clear summaries | Python |
+| [Food-Health-App](https://github.com/loophole-debug/Food-Health-App) | Food and health application | Python |
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🕵️ [SAR-STR Investigation Copilot](https://github.com/loophole-debug/SAR-STR-Investigation-Copilot)
-Evidence-grounded AML investigation copilot with live LLM reasoning, citation checks, audit trace and mandatory human review.
-
-`Python` `FastAPI` `OpenAI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ [amd-devassist](https://github.com/loophole-debug/amd-devassist)
-AI developer assistant to speed up engineering workflows.
-
-`TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 [summarizer-agent](https://github.com/loophole-debug/summarizer-agent)
-AI agent that summarizes content into clear takeaways.
-
-`Python`
-
-</td>
-<td width="50%" valign="top">
-
-### 🍎 [Food-Health-App](https://github.com/loophole-debug/Food-Health-App)
-Food and health application.
-
-`Python`
-
-</td>
-</tr>
-</table>
+| Area | Tools |
+|---|---|
+| **Languages** | `Python` · `TypeScript` · `JavaScript` · `SQL` · `Bash` |
+| **AI / LLM** | `OpenAI API` · `Claude API` · `Gemini API` · `LangChain` · `LlamaIndex` · `Hugging Face` · `Ollama` |
+| **Agents** | `Tool / Function Calling` · `Model Context Protocol (MCP)` · `Multi-step Workflows` · `Structured Outputs` |
+| **RAG & Data** | `Embeddings` · `ChromaDB` · `pgvector` · `Pandas` · `NumPy` · `Pydantic` |
+| **Backend** | `FastAPI` · `Node.js` · `REST APIs` · `WebSockets` · `Async Python` |
+| **Databases** | `PostgreSQL` · `MongoDB` · `Redis` · `SQLite` |
+| **Frontend** | `React` · `Next.js` · `Tailwind CSS` · `Streamlit` |
+| **Cloud & DevOps** | `Docker` · `GitHub Actions (CI/CD)` · `Linux` · `AWS` · `Azure` · `GCP` |
+| **Quality & Tools** | `Git` · `GitHub` · `pytest` · `Postman` · `VS Code` · `Jupyter` |
 
 ---
 
-## 📊 GitHub Stats
+### 🧭 How I Build
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=loophole-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loophole-debug&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+- 🔍 **Grounded:** every AI answer should trace back to evidence and citations
+- 🧾 **Auditable:** logs and traces so every decision can be reviewed
+- 🧑‍⚖️ **Human in the loop:** mandatory review for high-stakes outputs
+- 🧱 **Scalable:** clean APIs, async services, containerized deployment
 
 ---
 
-## 🎬 Beyond Code: One Clip Media
+### 🌱 Currently
 
-I run a content brand on **YouTube and Instagram** covering AI tools, business facts and financial tips.
+- 🤖 Building AI agents and GenAI workflows
+- 🔭 Focus: making AI systems reliable, secure and production-ready
+- 📚 Learning: advanced agent architectures, scalable backend design, MCP integrations
+- 💡 Open to: AI automation projects, freelance work and collaborations
 
 ---
 
-## 🤝 Open To
+<details>
+<summary><b>🎯 Areas I can help with</b></summary>
 
-🔹 AI automation projects  🔹 GenAI and agent development  🔹 Freelance collaborations
+<br>
 
-<div align="center">
+- AI agent development and workflow automation
+- LLM-powered applications (RAG, summarization, copilots)
+- Backend APIs with FastAPI and Node.js
+- Prompt engineering and LLM evaluation
+- Compliance-style AI tools with citations and audit trails
 
-### Let's build something together
+</details>
 
-[![LinkedIn](https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-k24)
+---
 
-</div>
+### 📫 Connect
+
+- 💼 LinkedIn: [priyanshu-k24](https://linkedin.com/in/priyanshu-k24)
+- 🏅 Certifications: [Credly](https://credly.com/users/priyanshu-kumar25)
+- 💬 Best way to reach me: LinkedIn message
+
+*Building useful AI, one shipped project at a time.* 🚀
