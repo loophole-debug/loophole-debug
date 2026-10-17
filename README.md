@@ -1,10 +1,22 @@
-# Hi, I'm Priyanshu Kumar 👋
+<div align="center">
 
-**Software Engineer @ HCLTech | AI Automation · GenAI Workflows · Backend Systems**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Priyanshu+Kumar+%F0%9F%91%8B;Software+Engineer+%40+HCLTech;Building+AI+Agents+%26+GenAI+Workflows;Scalable+Backend+%7C+AI+Automation" alt="Typing header" />
 
-I build AI agents, GenAI workflows and scalable backend services. With 2+ years of professional experience, I focus on production-grade AI systems that are evidence-grounded, auditable and safe, with a human in the loop where it matters.
+**2+ years building AI automation, GenAI workflows and production backend systems**
 
-> Idea → Design → Build → Test → Ship 🚢
+[LinkedIn](https://linkedin.com/in/priyanshu-k24) · [Credly](https://credly.com/users/priyanshu-kumar25) · [GitHub](https://github.com/loophole-debug)
+
+</div>
+
+---
+
+### 🏙️ My Contribution City (3D)
+
+<div align="center">
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
 
 ---
 
@@ -50,7 +62,7 @@ I build AI agents, GenAI workflows and scalable backend services. With 2+ years 
 
 ### 🧭 How I Build
 
-- 🔍 **Grounded:** every AI answer should trace back to evidence and citations
+- 🔍 **Grounded:** every AI answer traces back to evidence and citations
 - 🧾 **Auditable:** logs and traces so every decision can be reviewed
 - 🧑‍⚖️ **Human in the loop:** mandatory review for high-stakes outputs
 - 🧱 **Scalable:** clean APIs, async services, containerized deployment
@@ -60,31 +72,17 @@ I build AI agents, GenAI workflows and scalable backend services. With 2+ years 
 ### 🌱 Currently
 
 - 🤖 Building AI agents and GenAI workflows
-- 🔭 Focus: making AI systems reliable, secure and production-ready
 - 📚 Learning: advanced agent architectures, scalable backend design, MCP integrations
 - 💡 Open to: AI automation projects, freelance work and collaborations
 
 ---
 
-<details>
-<summary><b>🎯 Areas I can help with</b></summary>
-
-<br>
-
-- AI agent development and workflow automation
-- LLM-powered applications (RAG, summarization, copilots)
-- Backend APIs with FastAPI and Node.js
-- Prompt engineering and LLM evaluation
-- Compliance-style AI tools with citations and audit trails
-
-</details>
-
----
-
 ### 📫 Connect
 
-- 💼 LinkedIn: [priyanshu-k24](https://linkedin.com/in/priyanshu-k24)
-- 🏅 Certifications: [Credly](https://credly.com/users/priyanshu-kumar25)
-- 💬 Best way to reach me: LinkedIn message
+<div align="center">
+
+**[LinkedIn](https://linkedin.com/in/priyanshu-k24)** · **[Credly](https://credly.com/users/priyanshu-kumar25)** · **[GitHub](https://github.com/loophole-debug)**
 
 *Building useful AI, one shipped project at a time.* 🚀
+
+</div>
