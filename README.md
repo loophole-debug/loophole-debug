@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Priyanshu%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@%20HCLTech%20%7C%20AI%20Automation%20%26%20GenAI&descAlignY=58&descSize=16" width="100%"/>
+# Priyanshu Kumar
+### Software Engineer @ HCLTech | AI Automation & GenAI
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+HCLTech;Building+AI+Agents+%26+GenAI+Workflows;Scalable+Backend+Systems;Content+Creator+%7C+One+Clip+Media)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=loophole-debug&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://hits.sh/github.com/loophole-debug.svg?label=Profile%20Views&color=0e75b6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-k24)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://credly.com/users/priyanshu-kumar25)
 
